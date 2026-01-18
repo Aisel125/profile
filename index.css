@@ -6,6 +6,8 @@
 
 body {
     background-color: #F2F6FC;
+    width: 380px;
+    height: 732px;
 }
 
 
@@ -39,4 +41,5 @@ p {
     background-color: #E2EAF7;
     border-radius: 6px;
    
+
 }
