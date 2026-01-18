@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F2F6FC;
+}
+
+
+ul {
+      margin-top: 194px;
+      margin-left: 370px;
+}
+
+li {
+    display: flex;
+    margin-top: 20px;
+     width: 340px;
+    height: 61px;
+    align-items: center;
+    padding-left: 30px;
+}
+
+img {
+    margin-right: 10px;
+    width: 24px;
+    height: 24px;
+}
+
+p {
+     font-family: 'Noto Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.parameters {
+    background-color: #E2EAF7;
+    border-radius: 6px;
+   
+}
